@@ -1,0 +1,35 @@
+01/01 14:02:42.071  Windows Version: 6.1.7601 Service Pack 1 
+01/01 14:02:42.071  NowSmart Talkin Version: 1.2.20801 
+01/01 14:04:27.313  Microphone:	44100Hz 2 channels.
+01/01 14:04:27.338  Speaker:	48000Hz 2 channels.
+01/01 14:04:27.342  Intialize output file: C:\Users\Administrator\Documents\史千金劝学贾宝玉.mp3
+01/01 14:04:27.390  Create Filters...
+01/01 14:04:27.391  Filter: input 32000Hz 2 channels 32 bits
+01/01 14:04:27.391  Filter: output 32000Hz 2 channels 32 bits
+01/01 14:04:35.776  Microphone:	44100Hz 2 channels.
+01/01 14:04:35.799  Speaker:	48000Hz 2 channels.
+01/01 14:04:35.804  Intialize output file: C:\Users\Administrator\Documents\史千金劝学贾宝玉.mp3
+01/01 14:04:35.811  Create Filters...
+01/01 14:04:35.812  Filter: input 32000Hz 2 channels 32 bits
+01/01 14:04:35.812  Filter: output 32000Hz 2 channels 32 bits
+01/01 14:04:58.198  Microphone:	44100Hz 2 channels.
+01/01 14:04:58.228  Speaker:	48000Hz 2 channels.
+01/01 14:04:58.232  Intialize output file: C:\Users\Administrator\Documents\史千金劝学贾宝玉.mp3
+01/01 14:04:58.239  Create Filters...
+01/01 14:04:58.240  Filter: input 32000Hz 2 channels 32 bits
+01/01 14:04:58.240  Filter: output 32000Hz 2 channels 32 bits
+01/01 14:05:43.308  Microphone:	44100Hz 2 channels.
+01/01 14:05:43.329  Speaker:	48000Hz 2 channels.
+01/01 14:05:43.332  Intialize output file: C:\Users\Administrator\Documents\史千金劝学贾宝玉.mp3
+01/01 14:05:43.340  Create Filters...
+01/01 14:05:43.341  Filter: input 32000Hz 2 channels 32 bits
+01/01 14:05:43.341  Filter: output 32000Hz 2 channels 32 bits
+01/01 14:06:03.881  Auto Sync Function: Enabled
+01/01 14:43:48.410  Microphone:	44100Hz 2 channels.
+01/01 14:43:48.439  Speaker:	48000Hz 2 channels.
+01/01 14:43:48.442  Intialize output file: C:\Users\Administrator\Documents\小无猜试探生嫌隙.mp3
+01/01 14:43:48.463  Create Filters...
+01/01 14:43:48.464  Filter: input 32000Hz 2 channels 32 bits
+01/01 14:43:48.464  Filter: output 32000Hz 2 channels 32 bits
+01/01 14:44:09.161  Auto Sync Function: Enabled
+01/01 14:55:41.681  NowSmart Talkin: Closed. 
